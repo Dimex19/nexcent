@@ -334,7 +334,8 @@
 .unlock-content {
     /* border: 1px solid red; */
     width: 661px;
-    height: 268px;
+    /* height: 268px; */
+    height: fit-content;
     margin-top: 20px;
     /* position: absolute;
     top: 82.5px;
