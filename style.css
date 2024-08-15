@@ -316,6 +316,7 @@
     /* position: relative;
     top: 84px; */
     width: 100%;
+    height: fit-content;
     /* height: 433px; */
     justify-content: center;
     gap: 50px;
