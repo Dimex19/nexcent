@@ -83,7 +83,8 @@
 }
 .hero-content {
     width: 657px;
-    height: 276px;
+    height: 100vh;
+    /* height: 276px; */
     /* border: 1px solid red; */
     /* position: absolute;
     top: 161.5px;
