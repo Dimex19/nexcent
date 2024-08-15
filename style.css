@@ -3,6 +3,7 @@
     margin: 0px;
     box-sizing: border-box;
     font-family: "Inter", sans-serif;
+    overflow-x: hidden;
 }
 .main-nav-container {
     /* width: 1440px; */
